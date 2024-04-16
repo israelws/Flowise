@@ -39,10 +39,10 @@ const MainRoutes = {
             path: '/chatflows',
             element: <Chatflows />
         },
-        {
-            path: '/marketplaces',
-            element: <Marketplaces />
-        },
+        // {
+        //     path: '/marketplaces',
+        //     element: <Marketplaces />
+        // },
         {
             path: '/apikey',
             element: <APIKey />
